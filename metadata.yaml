@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40745
     wikipedia: http://texts.cdlib.org/view?docId=hb3199n7tr&doc.view=frames&chunk.id=div00002&toc.depth=1&toc.id=
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40646#A-History-of-Spainespa-ola-of-Rafael-Altamira
 gutenberg_issued: '2012-09-02'
 gutenberg_type: Text
 identifiers:
